@@ -3,13 +3,13 @@
 # Free ChatGPT Site List
 
 这儿收集了一些免费好用的ChatGPT镜像站点
-> 🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，请告诉我。
+> 🤭收藏此站点,不迷失；如果**分享站点**或有**站点失效和标注错误**，告诉我https://github.com/qwe361/chatGPT-mirror-site-collection/issues/1。
 > 🧡🧡
 > 
 
 - ⭐:使用不受限
 - 🔑:需要进行登录
--
+
 ## 站点列表
 「⭐⭐⭐」https://chat.yqcloud.top/ 速度还可以，稳定
 
