@@ -36,16 +36,95 @@
  [⭐⭐] https://gpt.h7ml.cn/
 
  [⭐⭐] https://chat.wxredcover.cn/
+[⭐⭐] https://theb.ai/
 
-4. [⭐⭐] https://chat.yqcloud.top/
+[🔑⭐] https://poe.com/
 
-5. [⭐⭐] https://chat.xeasy.me/
+[⭐⭐] https://dev.yqcloud.top/
 
-6. [⭐⭐] https://chat.forchange.cn/
+[⭐⭐] https://chat2.geekr.dev
 
-7. [⭐⭐] https://chat.xeasy.me/
+[⭐⭐] https://qachat.vercel.app
 
-8. [⭐⭐] https://chat.jingran.vip/\
+[⭐⭐] https://ai.bo-e.com/
 
-9. [⭐⭐] https://qa.js.cn/
+[⭐⭐] https://chat2.xeasy.me
+
+[⭐⭐] http://newb.site/chatgpt
+
+[⭐⭐] https://www.ftcl.site/
+
+[⭐⭐] https://gpt.h7ml.cn/
+
+https://chater.lanyun1103.top
+
+https://chat.yougan.cc/
+
+https://www.cveoy.com/
+
+https://chat1.wuguokai.top/s/chatgpt
+
+https://chat.wuguokai.cn/s/chatgpt
+
+https://chat.forchange.cn/
+
+http://gitopenchina.gitee.io/gpt
+
+http://gitopenchina.gitee.io/freechatgpt
+
+https://askbot.club/chatgpt/
+
+https://gpt.getshare.net/
+
+http://chatai.fyi
+
+https://freechatgpt.chat/
+
+https://chatplus.app （客户端应用）
+
+https://desk.im
+
+https://xc.com/
+
+https://chat.51buygpt.com/
+
+http://chat.apigpt.cn/
+
+https://94gpt.com/
+
+https://www.teach-anything.com/
+
+https://trychatgp.com/
+
+https://ai117.com/
+
+http://chat.livepo.top/
+
+https://freegpt.cc
+
+https://ai.ls
+
+https://chat.h7ml.cn/
+
+https://chatgpt-flutter.h7ml.cn/
+
+https://www.aitoolgpt.com/
+
+https://chatapi.qload.cn/
+
+[🔑] https://www.ohmygpt.com/
+
+[🔑] https://www.typingmind.com/
+
+[🔑] https://www.bz1y.cn/
+
+[🔑] https://chat.alpaca-bi.com/
+
+[🔑] https://chat.paoying.net/
+
+[🔑] https://chat.eaten.fun/
+
+[🔑] https://chat.qingting.work
+
+[🔑] https://chat.wxredcover.cn/
 
