@@ -9,111 +9,98 @@
 
 - ⭐:使用不受限
 - 🔑:需要进行登录
+ 排名不分先后
+
+[ 🆓] 使用没有限制
+
+[ 🔐] 有限使用，需要输入 API key 或登录
+
+[ 🌎] 需要科学上网
+
+[ 📚] 除了 ChatGPT 以外还有别的 AI bot
+
+[ 🔔] GPT4 （默认 3.5）
+
+[ 🚧] 建设中
+
+类似官网风格
 
 ## 站点列表
+[ 🆓🌎 ] https://chatbot.theb.ai 来自 https://github.com/Chanzhaoyu/chatgpt-web
+
+[ 🔐🌎🔔 ] https://fastgpt.app 来自 https://github.com/yuezk/chatgpt-mirror
+
+[ 🔐🌎 ] https://freegpt.cc
+
+[ 🆓🌎 ] https://freegpt.one
+
+[ 🆓🌎🔔 ] https://freechatgpt.chat 来自 https://github.com/ztjhz/ChatGPTFreeApp
+
+[ 🆓 ] https://dev.yqcloud.top
+
+[ 🆓 ] https://ai.bo-e.com
+
+[ 🔐🌎 ] https://94gpt.com
+
+[ 🔐 ] https://chat.forchange.cn
+
+[ 🆓 ] http://gitopenchina.gitee.io/gpt
+
+[ 🆓 ] http://gitopenchina.gitee.io/chatgpt
+
+[ 🆓 ] http://gitopenchina.gitee.io/freechatgpt
+
+[ 🆓🌎🔔 ] https://ai117.com
+
+[ 🔐🌎🔔 ] https://www.typingmind.com
+
+[ 🔐 ] https://ai.yiios.com
+
+[ 🔐 ] https://www.chat2ai.cn
+
+[ 🔐 ] https://aigcfun.com
+
+[ 🔐 ] https://chatmindai.com
+
+[ 🔐 ] https://chat.bumo.to
+
+[ 🆓 ] https://ai.zyun.vip
+
+# chatgpt-demo 风格
+[ 🆓🌎 ] https://qachat.vercel.app 来自 https://github.com/yesmore/QA
+
+[ 🆓 ] https://qachat.cn 来自 https://github.com/yesmore/QA
+
+[ 🔐🌎 ] https://chatforai.com
+
+[ 🆓🌎 ] https://desk.im
+
+[ 🆓🌎 ] https://ai.ls
+
+[ 🆓🌎 ] https://ai.ci
+
+[ 🆓🌎 ] https://talk.xiu.ee
+
+[ 🌎 ] https://chat2.xeasy.me
+
+[ 🆓🌎 ] https://chatcat.pages.dev
+
+[ 🆓🌎 ] https://gpt.xeasy.me
+
+# 替代方案
+[ 🔐🌎🔔📚 ] https://poe.com
+
+[ 🔐🌎🔔 ] Bing Chat
+
+[ 🚧📚 ] Google Bard
+
+[ 🚧📚 ] Anthropic Claude
+
+[ 🚧📚 ] 百度 文心一言
+
+[ 🚧📚 ] Open Assistant
 
 
- [🔑⭐] https://poe.com/
-
-
- 
-
- [⭐⭐] https://gpt.h7ml.cn/
-
- 
- [⭐⭐] https://chat.wxredcover.cn/
-
-[⭐⭐] https://theb.ai/
-
-[🔑⭐] https://poe.com/
-
-[⭐⭐] https://dev.yqcloud.top/
-
-[⭐⭐] https://chat2.geekr.dev
-
-[⭐⭐] https://qachat.vercel.app
-
-[⭐⭐] https://ai.bo-e.com/
-
-[⭐⭐] https://chat2.xeasy.me
-
-[⭐⭐] http://newb.site/chatgpt
-
-[⭐⭐] https://www.ftcl.site/
-
-[⭐⭐] https://gpt.h7ml.cn/
-
-https://chater.lanyun1103.top
-
-https://chat.yougan.cc/
-
-https://www.cveoy.com/
-
-https://chat1.wuguokai.top/s/chatgpt
-
-https://chat.wuguokai.cn/s/chatgpt
-
-https://chat.forchange.cn/
-
-http://gitopenchina.gitee.io/gpt
-
-http://gitopenchina.gitee.io/freechatgpt
-
-https://askbot.club/chatgpt/
-
-https://gpt.getshare.net/
-
-http://chatai.fyi
-
-https://freechatgpt.chat/
-
-https://chatplus.app （客户端应用）
-
-https://desk.im
-
-https://xc.com/
-
-https://chat.51buygpt.com/
-
-http://chat.apigpt.cn/
-
-https://94gpt.com/
-
-https://www.teach-anything.com/
-
-https://trychatgp.com/
-
-https://ai117.com/
-
-http://chat.livepo.top/
-
-https://freegpt.cc
-
-https://ai.ls
-
-https://chat.h7ml.cn/
-
-https://chatgpt-flutter.h7ml.cn/
-
-https://www.aitoolgpt.com/
-
-https://chatapi.qload.cn/
-
-[🔑] https://www.ohmygpt.com/
-
-[🔑] https://www.typingmind.com/
-
-[🔑] https://www.bz1y.cn/
-
-[🔑] https://chat.alpaca-bi.com/
-
-[🔑] https://chat.paoying.net/
-
-[🔑] https://chat.eaten.fun/
-
-[🔑] https://chat.qingting.work
-
-[🔑] https://chat.wxredcover.cn/
 
 # Invalid websites
 「⭐⭐⭐」https://chat.yqcloud.top/ 速度还可以，稳定
