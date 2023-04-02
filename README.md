@@ -23,7 +23,7 @@
 
 [ 🚧] 建设中
 
-类似官网风格
+
 
 ## 站点列表
 [ 🆓🌎 ] https://chatbot.theb.ai 来自 https://github.com/Chanzhaoyu/chatgpt-web
@@ -99,6 +99,11 @@
 [ 🚧📚 ] 百度 文心一言
 
 [ 🚧📚 ] Open Assistant
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=qwe361/chatGPT-mirror-site-collection&type=Date)](https://star-history.com/#qwe361/chatGPT-mirror-site-collection&Date)
+
 
 
 
