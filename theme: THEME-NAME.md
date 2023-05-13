@@ -1,1 +1,0 @@
-theme: THEME-NAME
