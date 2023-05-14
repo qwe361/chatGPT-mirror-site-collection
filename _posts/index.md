@@ -357,11 +357,9 @@
 
 </details>
 
-## 🤟 玩得开心
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+
 
 
 
